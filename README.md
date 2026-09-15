@@ -57,6 +57,7 @@ Across every monthly cohort from 2016–2018, **under 1% of customers** place a 
 The baseline model completely failed on the imbalanced label — a textbook case of why **accuracy alone is misleading** (70% "accuracy" while catching zero churners). Random Forest improved this meaningfully, and even with modest recall, its **feature importance** produced a real, actionable insight.
 
 ---
+<img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/df54c51f-388a-4edd-81a5-51cddf689ebf" />
 
 ## 💡 Recommendations
 
@@ -65,7 +66,7 @@ The baseline model completely failed on the imbalanced label — a textbook case
 | Retention is category-driven | Cross-sell campaigns nudging decor/bed-bath buyers toward appliances & fashion | 30-day repeat rate, by first-category cohort |
 | Churn tied to early revenue & freight cost | Early-warning flag + "first-sale acceleration" support for new sellers in high-freight regions | 90-day seller survival rate |
 
-📄 Full reasoning, caveats, and priority call: **[business_memo.md](./business_memo.md)**
+📄 Full reasoning, caveats, and priority call: **[business_memo.md](business_memo.md.ipynb)**
 
 ---
 
@@ -116,6 +117,6 @@ The baseline model completely failed on the imbalanced label — a textbook case
 ## 👤 Author
 
 **Misthi Jaiswal**
-[LinkedIn](#) · [GitHub](#) · [Email](mailto:misthijaiswal0012@gmail.com)
+[LinkedIn](linkedin.com/in/misthi-jaiswal-2a73b030a/) · [GitHub](https://github.com/CodeCommanderMJ) · [Email](mailto:misthijaiswal0012@gmail.com)
 
 </div>
